@@ -1,0 +1,18 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20;
+}
+
+.scoreboard {
+    background-color: #fafafa;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 2px;
+}
+button {
+    background-color: blue;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
